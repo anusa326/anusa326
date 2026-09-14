@@ -22,9 +22,6 @@
     <a href="mailto:anusaghosh936@gmail.com">
       <img src="https://img.shields.io/badge/Email-anusaghosh936%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://wa.me/917439482898" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-%2B91%207439482898-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
   </p>
 
   <!-- Animated Neon Divider -->
@@ -104,21 +101,3 @@ A **BCA (Hons) scholar** specializing in end-to-end web engineering, UI/UX optim
 * **🎓 Wadhwani Foundation:** Certified in *Basic Professional Skills*.
 * **⚡ Circuit Craft 2K24:** Finalist participant in hardware design at Brainware University.
 
----
-
-## 📈 Engineering Metrics & Activity
-
-<div align="center">
-  <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RAZERBOY786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAZERBOY786&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <!-- Interactive Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAZERBOY786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br><br>
-
-  <!-- Animated Neon Divider Footer -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-9e93-dda570a041a5.gif" width="100%">
-</div>
